@@ -1,6 +1,6 @@
 {
     "users": [
-      { "username": "coreyschafer", "email": "corey@gmail.com", "password": "coreychef" }
+      { "id":1,"username": "coreyschafer", "email": "corey@gmail.com", "password": "coreychef" }
     ],
     "recipes": [
      
